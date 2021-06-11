@@ -1,0 +1,439 @@
+            * {
+                box-sizing: border-box;
+                margin: 0px;
+                font-family: 'Open Sans', sans-serif;
+            }
+            
+            .fs-10 {
+                font-size: 10px;
+            }
+            
+            .fs-12 {
+                font-size: 12px;
+            }
+            
+            .fs-14 {
+                font-size: 14px;
+            }
+            
+            .fs-16 {
+                font-size: 16px;
+            }
+            
+            .fs-18 {
+                font-size: 18px;
+            }
+            
+            .fs-20 {
+                font-size: 20px;
+            }
+            
+            .fs-25 {
+                font-size: 25px;
+            }
+            
+            .fs-30 {
+                font-size: 30px;
+            }
+            
+            .fs-35 {
+                font-size: 35px;
+            }
+            
+            .fw-300 {
+                font-weight: 300;
+            }
+            
+            .fw-400 {
+                font-size: 400;
+            }
+            
+            .fw-500 {
+                font-weight: 500;
+            }
+            
+            .fw-600 {
+                font-weight: 600;
+            }
+            
+            .fw-800 {
+                font-weight: 800;
+            }
+            
+            .mr-5 {
+                margin-right: 5px;
+            }
+            
+            .mr-15 {
+                margin-right: 15px;
+            }
+            
+            .mr-20 {
+                margin-right: 20px;
+            }
+            
+            .ml-10 {
+                margin-left: 10px;
+            }
+            
+            .mb-30 {
+                margin-bottom: 40px;
+            }
+            
+            .mb-20 {
+                margin-bottom: 20px;
+            }
+            
+            .mb-15 {
+                margin-bottom: 15px;
+            }
+            
+            .mb-10 {
+                margin-bottom: 10px;
+            }
+            
+            .pt-15 {
+                padding-top: 15px !important;
+            }
+            
+            .pb-30 {
+                padding-bottom: 30px;
+            }
+            
+            .pb-20 {
+                padding-bottom: 20px;
+            }
+            
+            .pb-15 {
+                padding-bottom: 15px !important;
+            }
+            
+            .pb-10 {
+                padding-bottom: 10px;
+            }
+            
+            .gray {
+                color: gray;
+            }
+            
+            .black {
+                color: black;
+            }
+            
+            .healthbag {
+                width: 100%;
+                height: 120px;
+                padding-left: 150px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+            
+            .heading {
+                font-size: 48px;
+            }
+            
+            .header {
+                display: flex;
+                width: 100%;
+                height: 100vh;
+            }
+            
+            .header-detail {
+                width: 50%;
+                padding-left: 130px;
+                padding-top: 110px;
+            }
+            
+            .header-img {
+                width: 50%;
+            }
+            
+            .button-learn {
+                margin-top: 80px;
+                padding-left: 28px;
+                padding-right: 28px;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                border: none;
+                border-radius: 8px;
+                background-color: #1f69db;
+                color: white;
+            }
+            
+            .home {
+                padding-right: 100px;
+            }
+            
+            .button-login {
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border: none;
+                border-radius: 8px;
+                background-color: #1f69db;
+                color: white;
+            }
+            
+            .sec-1 {
+                padding-left: 130px;
+                padding-top: 50px;
+                background-color: #f6f6f6;
+            }
+            
+            .right {
+                display: flex;
+                justify-content: space-between;
+            }
+            
+            .right-img {
+                margin-right: 80px;
+                margin-top: 30px;
+            }
+            
+            .doctor {
+                background-color: white;
+                width: 225px;
+                padding: 25px;
+                border-radius: 25px;
+                margin-top: 50px;
+                margin-right: 15px;
+            }
+            
+            .explore-detail {
+                display: flex;
+                padding-bottom: 175px;
+            }
+            
+            .icon-container {
+                border-radius: 50%;
+                width: 60px;
+                height: 60px;
+                padding: 10px;
+                background-color: #f6f6f6;
+            }
+            
+            .icon-container>img {
+                width: 100%;
+            }
+            
+            .doctor-img {
+                width: 50%;
+            }
+            
+            .pexels-doctor {
+                border-top-left-radius: 100px;
+                border-bottom-right-radius: 100px;
+                width : 90%;
+                height: 550px;
+            }
+            
+            .doctor-mision {
+                display: flex;
+                padding-bottom: 125px;
+            }
+            
+            .our-mision {
+                background-color: white;
+                display: flex;
+                padding: 30px;
+                border-radius: 12px;
+                margin-right: 100px;
+                margin-bottom: 25px;
+            }
+            
+            .section-2 {
+                padding-left: 130px;
+                padding-bottom: 50px;
+            }
+            
+            .good-service {
+                display: flex;
+                width: 100%;
+            }
+            
+            .service-detail {
+                width: 50%;
+                padding-top: 175px;
+            }
+            
+            .service-img {
+                width: 50%;
+            }
+            
+            .button-book-now {
+                padding-left: 28px;
+                padding-right: 28px;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                border: none;
+                border-radius: 8px;
+                background-color: #1f69db;
+                color: white;
+            }
+            
+            .section-3 {
+                padding-left: 130px;
+                background-color: #f6f6f6;
+                padding-bottom: 125px;
+            }
+            
+            .section-3-detail {
+                padding-top: 120px;
+                display: flex;
+                justify-content: space-between;
+            }
+            
+            .left-right-arrow {
+                padding-right: 100px;
+            }
+            
+            .date {
+                color: #1f69db;
+                padding-bottom: 20px;
+            }
+            
+            .idea {
+                line-height: 40px;
+                padding-bottom: 30px;
+            }
+            
+            .card {
+                background-color: white;
+                border-radius: 12px;
+                overflow: hidden;
+                width: 350px;
+                margin-top: 75px;
+                margin-right: 25px;
+            }
+            
+            .read-more {
+                color: #1f69db;
+                display: flex;
+                align-items: center;
+            }
+            
+            .card-detail {
+                padding: 20px;
+            }
+            
+            .all-card {
+                display: flex;
+            }
+            
+            .section-4 {
+                display: flex;
+                justify-content: space-between;
+                padding-left: 130px;
+                padding-right: 130px;
+                padding-top: 80px;
+                padding-bottom: 100px;
+            }
+            
+            .about-us-detail {
+                line-height: 25px;
+                color: gray;
+            }
+            
+            .arrow-button {
+                background-color: #1f69db;
+                border: none;
+                height: 45px;
+                width: 45px;
+                border-radius: 8px;
+                margin-left: 5px;
+            }
+            
+            .input {
+                height: 45px;
+                background-color: #f6f6f6;
+                border: none;
+                padding-left: 10px;
+            }
+            
+            .input-button {
+                display: flex;
+                align-items: center;
+            }
+            
+            @media only screen and (max-width: 768px) {
+                .explore-detail {
+                    flex-direction: column;
+                }
+                .all-card {
+                    flex-direction: column;
+                }
+                .section-4 {
+                    flex-direction: column;
+                }
+                .section-3 {
+                    padding-left: 10px;
+                    padding-bottom: 60px;
+                }
+                .section-4 {
+                    padding-left: 20px;
+                }
+                .mb-small {
+                    margin-bottom: 20px;
+                }
+                .section-2 {
+                    padding-left: 20px;
+                }
+                .good-service {
+                    flex-direction: column-reverse;
+                }
+                .service-detail {
+                    width: 100%;
+                    padding-top: 0px;
+                }
+                .header {
+                     height: unset;
+                     flex-direction: column-reverse;
+                }
+
+                .heading {
+                    font-size: 24px;
+                }
+                .header-detail {
+                    width: 100%;
+                    padding-left: 20px;
+                    padding-top: 27px;
+                }
+
+                .healthbag {
+                    width: 100%;
+                    height: unset;
+                    padding-left: 20px;
+                    flex-direction: column;
+                }
+
+                .button-learn {
+                    margin-top: 10px;
+                }
+
+                .sec-1 {
+                    padding-left: 20px;
+                }
+
+                .doctor-mision {
+                    padding-bottom: 20px;
+                    flex-direction: column;
+                }
+                .pexels-doctor {
+                    border-top-left-radius: 0px;
+                    border-bottom-right-radius: 0px;
+                    width: 145%;
+                    height: 180px;
+                    object-fit: cover;
+                    object-position: center;
+                    margin-bottom: 30px;
+                }
+                .explore-detail {
+                    padding-bottom: 50px;
+                }
+                .our-mision {
+                    margin-right: 20px;
+                }
+            
+            }
